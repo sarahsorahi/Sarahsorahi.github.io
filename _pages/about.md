@@ -22,4 +22,4 @@ latest_posts:
   enabled: false
 ---
 
-Coming soon.
+Coming soon. 
